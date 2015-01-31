@@ -55,6 +55,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/password_field"
             >
+            
             <TextView
                 android:text="@string/password"
                 android:layout_weight="25"
